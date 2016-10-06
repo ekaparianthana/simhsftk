@@ -1,0 +1,2 @@
+# simhsftk
+sistem informasi fakultas
